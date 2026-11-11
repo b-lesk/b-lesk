@@ -16,8 +16,6 @@ Data engineer in New Orleans. I build SQL and Python pipelines, data models and 
 - Data quality checks: deduplication, JSON extraction, missing and duplicate detection
 - Privacy cleanup workflows with approval gates and post-run checks
 
-Client work is private, so it does not appear here.
-
 ## Projects
 
 | Project | What it is | Links |

@@ -2,7 +2,7 @@
 
 Data engineer in New Orleans. I build SQL and Python pipelines, data models and the quality checks that keep them honest.
 
-- Senior Analyst, Data Engineer at Accenture, supporting Meta as a client (May 2025 to present). I am an Accenture employee, not a Meta employee.
+- Senior Analyst, Data Engineer at Accenture, supporting Meta as a client (May 2025 to present). 
 - Data Scientist at North (May 2022 to March 2025).
 - B.S. Statistics, University of Michigan. M.S. Analytics at Georgia Tech, in progress.
 

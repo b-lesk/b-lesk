@@ -2,7 +2,7 @@
 
 # Benjamin Lesko
 
-![Typing](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3500&pause=900&color=FFC61A&center=true&vCenter=true&width=560&lines=Data+%26+AI+engineer+in+New+Orleans;Founder+of+SipTrack;Pipelines%2C+LLM+workflows%2C+iOS)
+![Typing](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3500&pause=900&color=FFC61A&center=true&vCenter=true&width=560&lines=Data+%26+AI+engineer+in+New+Orleans;Founder+of+SipTrack;SQL+pipelines+and+LLM+workflows)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-b--lesk.github.io-111?style=for-the-badge&logo=githubpages&logoColor=white)](https://b-lesk.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-benjamin--lesko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-lesko/) [![SipTrack](https://img.shields.io/badge/SipTrack-siptrack.app-FFC61A?style=for-the-badge&logoColor=111)](https://siptrack.app/) [![App Store](https://img.shields.io/badge/App_Store-SipTrack_Happy_Hour-000?style=for-the-badge&logo=apple&logoColor=white)](https://siptrack.app/get)
 
@@ -70,7 +70,7 @@ I build SQL and Python pipelines, LLM workflows, and the checks that keep both h
 
 <div align="center">
 
-![Stack](https://skillicons.dev/icons?i=py,swift,ts,react,nextjs,postgres,supabase,cloudflare,azure,git&theme=dark)
+![Stack](https://skillicons.dev/icons?i=py,ts,react,nextjs,postgres,supabase,cloudflare,azure,git&theme=dark)
 
 **Most used:** Python and SQL
 

@@ -78,8 +78,4 @@ I build SQL and Python pipelines, LLM workflows, and the checks that keep both h
 **AI:** OpenAI, Gemini, Claude, RAG, vector databases, agents, Ollama
 **Apps:** SwiftUI, Next.js, React, Cloudflare Workers, Supabase
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=b-lesk&show_icons=true&hide_border=true&bg_color=111111&title_color=FFC61A&icon_color=FFC61A&text_color=DDDDDD&include_all_commits=true&count_private=true" height="165" alt="GitHub stats">
-
 </div>

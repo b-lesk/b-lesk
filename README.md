@@ -72,6 +72,8 @@ I build SQL and Python pipelines, LLM workflows, and the checks that keep both h
 
 ![Stack](https://skillicons.dev/icons?i=py,swift,ts,react,nextjs,postgres,supabase,cloudflare,azure,git&theme=dark)
 
+**Most used:** Python and SQL
+
 **Data:** SQL, Python, Presto, Hive, Snowflake, Airflow, Postgres
 **AI:** OpenAI, Gemini, Claude, RAG, vector databases, agents, Ollama
 **Apps:** SwiftUI, Next.js, React, Cloudflare Workers, Supabase
@@ -79,6 +81,5 @@ I build SQL and Python pipelines, LLM workflows, and the checks that keep both h
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=b-lesk&show_icons=true&hide_border=true&bg_color=111111&title_color=FFC61A&icon_color=FFC61A&text_color=DDDDDD&include_all_commits=true&count_private=true" height="165" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-lesk&layout=compact&hide_border=true&bg_color=111111&title_color=FFC61A&text_color=DDDDDD" height="165" alt="Top languages">
 
 </div>

@@ -1,41 +1,84 @@
+<div align="center">
+
 # Benjamin Lesko
 
-Data and AI engineer in New Orleans. I build SQL and Python pipelines, LLM workflows, and the checks that keep both honest.
+![Typing](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3500&pause=900&color=FFC61A&center=true&vCenter=true&width=560&lines=Data+%26+AI+engineer+in+New+Orleans;Founder+of+SipTrack;Pipelines%2C+LLM+workflows%2C+iOS)
 
-- Senior Analyst, Data Engineer at Accenture, supporting Meta as a client (May 2025 to present). 
-- Data Scientist at North (May 2022 to March 2025).
-- B.S. Statistics, University of Michigan. M.S. Analytics at Georgia Tech, in progress.
+[![Portfolio](https://img.shields.io/badge/Portfolio-b--lesk.github.io-111?style=for-the-badge&logo=githubpages&logoColor=white)](https://b-lesk.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-benjamin--lesko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-lesko/) [![SipTrack](https://img.shields.io/badge/SipTrack-siptrack.app-FFC61A?style=for-the-badge&logoColor=111)](https://siptrack.app/) [![App Store](https://img.shields.io/badge/App_Store-SipTrack_Happy_Hour-000?style=for-the-badge&logo=apple&logoColor=white)](https://siptrack.app/get)
 
-**Portfolio:** [b-lesk.github.io](https://b-lesk.github.io/)
-**LinkedIn:** [benjamin-lesko](https://www.linkedin.com/in/benjamin-lesko/)
+</div>
 
-## What I work on
+<br>
 
-- Data models and daily summary tables for reporting
-- Production pipelines with monitoring, retries and row-count verification
-- Data quality checks: deduplication, JSON extraction, missing and duplicate detection
-- Privacy cleanup workflows with approval gates and post-run checks
+I build SQL and Python pipelines, LLM workflows, and the checks that keep both honest. By day I'm a data engineer at Accenture supporting Meta's Wearables AI. At night I run SipTrack, a happy-hour finder for 19,000+ bars and restaurants in 690+ US cities.
 
-## AI and LLM work
+<br>
 
-- **Backfill agent.** Built an agent workflow with chat, Claude Code skill and web entry points. It takes an approved backfill request, submits it, monitors it, retries within limits and verifies rows landed before closing.
-- **Contract retrieval (RAG).** Designed an Azure, OpenAI and Cosmos DB solution over 60+ statements of work, with a semantic layer for contract value by period and deal discovery.
-- **Internal AI platform.** Co-built a full-stack Next.js platform for a practitioner community of 250+: onboarding, discovery, review and an assistant.
-- **Human-in-the-loop review.** Prototyped a dry-run recommendation workflow for privacy reviews where a reviewer approves every change. It was a prototype and was not deployed.
-- **LLM extraction in SipTrack.** Gemini and a local open model (Qwen via Ollama) read bar websites and return schema-constrained JSON. A deterministic validator then checks each price, item and time against the source page before anything goes live.
+## Now
 
-## Projects
+- **Accenture, client Meta.** Senior Analyst, Data Engineer on Wearables AI (May 2025 to now). Daily-summary pipelines that cut data scanned 50-fold, a backfill agent that ran 200+ production backfills, privacy cleanup across 120+ tables.
+- **SipTrack LLC.** Founder. iOS app on the App Store, website, and an owner dashboard for bars.
+- **Georgia Tech.** M.S. Analytics, in progress. B.S. Statistics from the University of Michigan.
 
-| Project | What it is | Links |
-|---|---|---|
-| **SipTrack** | Happy-hour discovery platform. SwiftUI iOS app, Next.js on Cloudflare, Supabase/Postgres, Gemini venue-data extraction, Sentry and scheduled health checks. Live. | [siptrack.app](https://siptrack.app/) and [overview](https://github.com/b-lesk/siptrack-overview) |
-| **PaperTrade** | Paper-trading web app. FastAPI, SQLAlchemy and Alembic, strategies written in plain English and parsed with Claude. Source is private. | [papertrade.dev](https://papertrade.dev/) |
-| Blackjack Casino Plugin | Older learning project. Python desktop app using YOLOv5 card detection. | [repo](https://github.com/b-lesk/blackjack-casino-plugin) |
+<br>
+
+## SipTrack
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**What it does.** Shows which happy hours are on right now, what they cost and how long is left, on a map and a list.
+
+**How it's built**
+- SwiftUI iOS app with Live Activities and widgets
+- Next.js on Cloudflare Workers for siptrack.app
+- Supabase Postgres with row-level security
+- A nightly AI pipeline (Gemini and a local Qwen model) that reads venue websites, then a strict validator checks every price, item and time against the page
+- A React dashboard where bar owners see views, taps and deal-code visits
+
+</td>
+<td width="50%" valign="top">
+
+**By the numbers**
+- 21,800+ live deals
+- 19,600+ bars and restaurants
+- 690+ cities with their own pages
+- 300,000+ venue websites read by the pipeline
+- One founder
+
+[siptrack.app](https://siptrack.app/) and the [architecture overview](https://github.com/b-lesk/siptrack-overview)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Other work
+
+| Project | What it is |
+|---|---|
+| **Backfill agent** | Takes an approved backfill request, submits it, watches it, retries within limits and checks rows landed before closing. Chat, Claude Code skill and web entry points. |
+| **Contract search (RAG)** | Azure, OpenAI and Cosmos DB over 60+ statements of work, with a semantic layer for contract value by period. |
+| **AI practitioner platform** | Full-stack Next.js platform for a community of 250+: onboarding, project discovery and an assistant. |
+| **PaperTrade** | Paper-trading app. FastAPI, SQLAlchemy, strategies written in plain English and parsed by Claude. [papertrade.dev](https://papertrade.dev/) |
+
+<br>
 
 ## Tools
 
-**Data:** SQL, Python, Presto, Hive, Snowflake, Airflow, Postgres, Supabase
+<div align="center">
 
-**AI:** OpenAI, Gemini, Claude and Claude Code, RAG, vector databases, AI agents, Azure, Cosmos DB, Ollama
+![Stack](https://skillicons.dev/icons?i=py,swift,ts,react,nextjs,postgres,supabase,cloudflare,azure,git&theme=dark)
 
-**Apps:** Next.js, Swift and SwiftUI, Cloudflare, GitHub Actions, Git
+**Data:** SQL, Python, Presto, Hive, Snowflake, Airflow, Postgres
+**AI:** OpenAI, Gemini, Claude, RAG, vector databases, agents, Ollama
+**Apps:** SwiftUI, Next.js, React, Cloudflare Workers, Supabase
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=b-lesk&show_icons=true&hide_border=true&bg_color=111111&title_color=FFC61A&icon_color=FFC61A&text_color=DDDDDD&include_all_commits=true&count_private=true" height="165" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-lesk&layout=compact&hide_border=true&bg_color=111111&title_color=FFC61A&text_color=DDDDDD" height="165" alt="Top languages">
+
+</div>

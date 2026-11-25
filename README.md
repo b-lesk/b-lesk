@@ -2,7 +2,7 @@
 
 # Benjamin Lesko
 
-![Typing](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3500&pause=900&color=FFC61A&center=true&vCenter=true&width=560&lines=Data+%26+AI+engineer+in+New+Orleans;Founder+of+SipTrack;SQL+pipelines+and+LLM+workflows)
+![Typing](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3500&pause=900&color=FFC61A&center=true&vCenter=true&width=560&lines=Consultant+at+Accenture;Data+%26+AI+engineer+in+New+Orleans;Founder+of+SipTrack;SQL+pipelines+and+LLM+workflows)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-b--lesk.github.io-111?style=for-the-badge&logo=githubpages&logoColor=white)](https://b-lesk.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-benjamin--lesko-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-lesko/) [![SipTrack](https://img.shields.io/badge/SipTrack-siptrack.app-FFC61A?style=for-the-badge&logoColor=111)](https://siptrack.app/) [![App Store](https://img.shields.io/badge/App_Store-SipTrack_Happy_Hour-000?style=for-the-badge&logo=apple&logoColor=white)](https://siptrack.app/get)
 
@@ -10,14 +10,14 @@
 
 <br>
 
-I build SQL and Python pipelines, LLM workflows, and the checks that keep both honest. By day I'm a data engineer at Accenture supporting Meta's Wearables AI. At night I run SipTrack, a happy-hour finder for 19,000+ bars and restaurants in 690+ US cities.
+I build SQL and Python pipelines and LLM workflows, and I help business leaders decide what to do with the numbers. By day I'm a Consultant at Accenture supporting Meta's Wearables AI. At night I run SipTrack, a happy-hour finder for 19,000+ bars and restaurants in 690+ US cities.
 
 <br>
 
 ## Now
 
-- **Accenture, client Meta.** Senior Analyst, Data Engineer on Wearables AI (May 2025 to now). Daily-summary pipelines that cut data scanned 50-fold, a backfill agent that ran 200+ production backfills, privacy cleanup across 120+ tables.
-- **SipTrack LLC.** Founder. iOS app on the App Store, website, and an owner dashboard for bars.
+- **Accenture, client Meta.** Consultant, recently promoted from Senior Analyst (May 2025 to now). I sit between the data and the people making product and business calls on Wearables AI, and build what they need to decide. Daily-summary pipelines that cut data scanned 50-fold, a backfill agent that ran 200+ production backfills, privacy cleanup across 120+ tables.
+- **SipTrack LLC.** Founder. I run the business side too: pricing, a 60-day pilot for New Orleans bars, and an owner dashboard that shows bars what their deals bring in.
 - **Georgia Tech.** M.S. Analytics, in progress. B.S. Statistics from the University of Michigan.
 
 <br>

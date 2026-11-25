@@ -17,7 +17,7 @@ I build SQL and Python pipelines and LLM workflows, and I help business leaders 
 ## Now
 
 - **Accenture, client Meta.** Consultant, recently promoted from Senior Analyst (May 2025 to now). I sit between the data and the people making product and business calls on Wearables AI, and build what they need to decide. Daily-summary pipelines that cut data scanned 50-fold, a backfill agent that ran 200+ production backfills, privacy cleanup across 120+ tables.
-- **SipTrack LLC.** Founder. I run the business side too: pricing, a 60-day pilot for New Orleans bars, and an owner dashboard that shows bars what their deals bring in.
+- **SipTrack LLC.** Founder. I set the pricing and the 60-day pilot for New Orleans bars, and built the dashboard that shows owners what their deals bring in.
 - **Georgia Tech.** M.S. Analytics, in progress. B.S. Statistics from the University of Michigan.
 
 <br>
